@@ -7,6 +7,7 @@ const Untitled1 = () => {
 };
 
 export default Untitled1;
+console.log('foo');
 
 const _styles = StyleSheet.create({
   zMjZuTqE: {
